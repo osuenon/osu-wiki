@@ -10,6 +10,17 @@ tags:
 
 **osu! Fan Cafe Mapping Contest #5** (***OMC5***)는 한국에서 열리고 한국인만 참가하는 것이 가능한 매핑 컨테스트입니다.
 
+## 결과
+| 순위 | 프로페셔널 | 루키 |
+| :--: | -- | -- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | **[Acyl](https://osu.ppy.sh/users/1943309)** | **[Civil oath](https://osu.ppy.sh/users/3216107)** |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Heilia](https://osu.ppy.sh/users/9823042) | [Catoliel](https://osu.ppy.sh/users/1533041) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [zzx](https://osu.ppy.sh/users/1872936) | [Woe](https://osu.ppy.sh/users/9858638) |
+
+자세한 심사 내용은 [이 링크](https://docs.google.com/spreadsheets/d/1XcatH4cPfmkyftx2bRMVRDP7X2AjHzHfbI_XCw3WC8g/edit?usp=sharing)에서 확인하실 수 있습니다.
+
+그리고 모든 엔트리를 [이 링크](https://drive.google.com/file/d/1aXOoho30aDQ_RGlx61hethCmpRfV797w/view).
+
 ## 대회 일정
 
 | 일정 | 날짜 (UTC+9) |
@@ -72,7 +83,7 @@ OMC5는 한국의 다음과 같은 매핑 커뮤니티 인원에 의해 주최�
 | 직책 | 인원 |
 | :-- | :-- |
 | 주최 | **[Enon](https://osu.ppy.sh/users/2043401)**, [Beomsan](https://osu.ppy.sh/users/3626063), [GimBab](https://osu.ppy.sh/users/3141964), [My Angel RangE](https://osu.ppy.sh/users/6336713), [Sonnyc](https://osu.ppy.sh/users/11771) |
-| 심사 | (심사위원은 결과 발표 이후 공개됩니다.) |
+| 심사 | [Beomsan](https://osu.ppy.sh/users/3626063), [HabiHolic](https://osu.ppy.sh/users/1974436), [jieusieu](https://osu.ppy.sh/users/759439), (익명), [Luscent](https://osu.ppy.sh/users/2688581), [Sonnyc](https://osu.ppy.sh/users/11771), [Ujimatsu Chiya](https://osu.ppy.sh/users/3789302) |
 | 디자인 | [Enon](https://osu.ppy.sh/users/2043401) |
 
 ## 링크
