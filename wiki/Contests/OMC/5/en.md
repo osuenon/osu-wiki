@@ -10,6 +10,18 @@ tags:
 
 The **osu! Fan Cafe Mapping Contest #5** (***OMC5***) is a mapping contest hosted in Korea and only Koreans are permitted to participate. It is the fifth installment of the OMC.
 
+## Contest results
+
+| Placing | Professional | Rookie |
+| :--: | :-- | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Acyl | Civil oath |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place")| Heilia | Catoliel |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | zzx | Woe |
+
+![](https://i.imgur.com/mc8EXZq.png) ![](https://i.imgur.com/FJZocCR.png)
+
+Profile badges have been provided to the winners of each division.
+
 ## Contest schedule
 
 | Event | Timestamp (UTC+9) |
@@ -70,8 +82,8 @@ The OMC5 is run by members of the Korean mapping community.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | **[Enon](https://osu.ppy.sh/users/2043401)**, [Beomsan](https://osu.ppy.sh/users/3626063), [GimBab](https://osu.ppy.sh/users/3141964), [My Angel RangE](https://osu.ppy.sh/users/6336713), [Sonnyc](https://osu.ppy.sh/users/11771) |
-| Judge | (will be announced when the results are announced) |
-| Designer | [Enon](https://osu.ppy.sh/users/2043401) |
+| Judge | [Beomsan](https://osu.ppy.sh/users/3626063), [HabiHolic](https://osu.ppy.sh/users/1974436), [jieusieu](https://osu.ppy.sh/users/759439), [Luscent](https://osu.ppy.sh/users/2688581), [Sonnyc](https://osu.ppy.sh/users/11771), [Ujimatsu Chiya](https://osu.ppy.sh/users/3789302) |
+| Designer | [Enon](https://osu.ppy.sh/users/2043401), [My Angel RangE](https://osu.ppy.sh/users/6336713) |
 
 ## Links
 
